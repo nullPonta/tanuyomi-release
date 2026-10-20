@@ -10,7 +10,6 @@
   <a href="https://nullponta.github.io/tanuyomi-website/"><img src="https://img.shields.io/badge/Website-Live-brightgreen" alt="Official Website"></a>
   <a href="https://ci-en.net/creator/40053"><img src="https://img.shields.io/badge/Ci--en-Official%20Creator-orange" alt="Ci-en"></a>
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue" alt="Platform">
-  <a href="https://github.com/nullPonta/tanuyomi-release/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
 </p>
 
 ---
