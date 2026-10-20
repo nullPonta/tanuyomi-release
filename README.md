@@ -163,7 +163,6 @@ Windows版と異なり、macOS および Linux 版には FFmpeg や Poppler な�
 
 ## 📜 ライセンス・クレジット
 
-- **Tanuyomi 本体**: [MIT License](https://github.com/nullPonta/tanuyomi-release/blob/main/LICENSE)
 - **同梱・利用サードパーティソフトウェア**:
   - [FFmpeg](https://ffmpeg.org/) (GPL v3+)
   - [Poppler](https://poppler.freedesktop.org/) (GPL v2/v3)
